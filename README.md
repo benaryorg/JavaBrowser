@@ -1,2 +1,2 @@
-JavaBrowser
+PyBrowser
 ===========
